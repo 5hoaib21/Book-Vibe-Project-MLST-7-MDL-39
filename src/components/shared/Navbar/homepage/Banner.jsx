@@ -11,7 +11,7 @@ const Banner = () => {
           }
           className="max-w-sm rounded-lg shadow-2xl"
         />
-        <div className="space-y-5">
+        <div className="space-y-8">
           <h1 className="text-5xl font-bold">Books to freshen up <br /> your bookshelf</h1>
         
           <button className="btn btn-success">View the List</button>
